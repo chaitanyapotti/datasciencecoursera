@@ -1,0 +1,18 @@
+1. Navigate to folder using cd
+2. git init
+3. git remote add origin (existing repo)
+4. git add -A
+5. git commit -m "Message"
+6. git push
+
+git set remote branch - 
+git branch -u origin/master
+
+to update local  - 
+git pull
+
+
+
+
+For detailed info : 
+http://www.dataschool.io/git-quick-reference-for-beginners/
